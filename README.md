@@ -11,3 +11,5 @@ reveals the overlapping emotional content in music more effectively than hard cl
 data.
 
 This project contributes a potential framework for mood-based recommendation, offering feasible applications in playlist generation and music discovery for users and artists alike. Future work may explore deep learning architectures, context-aware personalization, and integration of lyrics for a more comprehensive emotional modeling of music.
+
+<img width="617" alt="Screenshot 2025-04-03 at 11 10 34 AM" src="https://github.com/user-attachments/assets/a8fb21d9-f437-4807-897e-688f9fb4fe38" />
